@@ -1,4 +1,4 @@
-# Hi my name is Tiago Pimenta Costa 👋
+# Hi my name is Tiago Pimenta Costa 👨‍💻
 
 
 * 🌱 I’m currently learning ... React.js
