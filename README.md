@@ -39,11 +39,11 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-#
+<!--#
 
 <div align="center">
   <a href="https://github.com/TiagoPimCosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagopimcosta&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopimcosta&layout=compact&langs_count=7&theme=react"/>
 </div>
-  
+ -->
