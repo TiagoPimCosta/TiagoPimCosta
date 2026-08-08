@@ -2,7 +2,7 @@
 
 I’m [**Tiago**](https://www.tiagopimcosta.dev), a passionate **Full-Stack Web Developer** who loves building modern, fast, and scalable applications. I enjoy working across the entire stack, from crafting beautiful UIs to designing solid backend architectures.
 
-🚀 I'm currently building **[ProdSync](https://github.com/TiagoPimCosta/ProdSync)**
+🚀 I'm currently building **[ProdSync](https://github.com/TiagoPimCosta/ProdSync)**</br>
 🤝 I’m also open to collaborations, especially around **Node.js** and **React.js** projects.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagopimcosta@gmail.com)
